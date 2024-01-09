@@ -87,7 +87,7 @@
               "optimization": false,
               "extractLicenses": false,
               "sourceMap": true
-            },
+            }, 
             "ja": {
               "localize": ["ja"]
             }
@@ -118,5 +118,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
