@@ -6,6 +6,7 @@ import { RouterLink } from '@angular/router';
     template: `
   <header>
     <h1><a routerLink="/"><img src="assets/img/logo.png" alt="Bethany's Pie Shop Logo" i18n-alt/></a></h1>
+    <h1><a routerLink="/"><img src="assets/img/logo.png" alt="Bethany's Pie Shop Logo" i18n-alt/></a></h1>
     <nav>
       <ul>
         <div>
